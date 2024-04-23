@@ -4,5 +4,5 @@
     "repo": "fum1h1ro/ctl.playdate",
     "description": "ctl for playdate",
     "license": "MIT",
-    "src": ["ctl/ctl.h"]
+    "src": ["ctl"]
 }
